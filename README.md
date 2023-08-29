@@ -1,9 +1,9 @@
 # Fear-Computing-via-VR-simulation
 
 ## code version
-### current version
+#### current version
 v4.0
-### special version
+#### special version
 v4.2, for testing different segment methods
 
  <br> <br>
