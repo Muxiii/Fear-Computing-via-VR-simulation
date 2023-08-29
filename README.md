@@ -1,5 +1,11 @@
 # Fear-Computing-via-VR-simulation
 
+## code version
+### current version
+v4.0
+### special version
+v4.2, for testing different segment methods
+
 ## dataset structure
 /data <br>
 --/[participant name]<br>
